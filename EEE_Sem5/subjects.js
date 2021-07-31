@@ -23,7 +23,7 @@ const SUBJECTS = {
 
   "slotE": {
     name: "Control System I",
-    link: ""
+    link: "https://vnit.webex.com/vnit/j.php?MTID=m2daa28158157529f2b4112d79e0e9aba"
   },
 
   "slotFa": {
@@ -43,7 +43,7 @@ const SUBJECTS = {
 
   "slotH": {
     name: "Industrial Automation",
-    link: ""
+    link: "https://vnit.webex.com/join/vskale"
   }
 };
 
