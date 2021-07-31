@@ -12,37 +12,42 @@ const SUBJECTS = {
   },
 
   "slotC": {
-    name: "Electrical Machines",
+    name: "EMC II",
     link: ""
   },
 
-  "slotD": {
-    name: "Electrical Power Systems",
+  "slotDa": {
+    name: "EPS A",
+    link: ""
+  },
+  
+   "slotDb": {
+    name: "EPS B",
     link: ""
   },
 
   "slotE": {
-    name: "Control System I",
+    name: "CSI",
     link: "https://vnit.webex.com/vnit/j.php?MTID=m2daa28158157529f2b4112d79e0e9aba"
   },
 
   "slotFa": {
-    name: "Electrical Power Distribution",
+    name: "EPDS",
     link: ""
   },
 
   "slotFb": {
-    name: "Optimization Techniques",
+    name: "OT",
     link: ""
   },
 
   "slotG": {
-    name: "Electrical Machine Design",
+    name: "EMD",
     link: ""
   },
 
   "slotH": {
-    name: "Industrial Automation",
+    name: "IA",
     link: "https://vnit.webex.com/join/vskale"
   }
 };
